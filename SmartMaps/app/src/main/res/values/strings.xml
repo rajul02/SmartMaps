@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SmartMaps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_driving_directions">DrivingDirectionsActivity</string>
+    <string name="directionkey">AIzaSyBbF5rxP0wEqCqbnmJMlNMSSZ8iQYXTABw</string>
+</resources>
